@@ -70,7 +70,7 @@
 <br>
 
 <p align="center">
-  ![](./profile-3d-contrib/profile-gitblock.svg)
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </p>
 
 <div align="center">
