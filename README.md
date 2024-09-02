@@ -70,14 +70,12 @@
 <br>
 
 <p align="center">
-
-![](./profile-3d-contrib/profile-green.svg)
-
+  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" />
 </p>
 
 <div align="center">
   
-![footer](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=🙌Thank%20you!🙌&fontSize=50)
+  ![footer](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=footer&text=🙌Thank%20you!🙌&fontSize=50)
 
 </div>
 
