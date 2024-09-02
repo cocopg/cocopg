@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=🙌Hi!%20I'm%20SeongJin!🙌&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=🙌Hi!%20I'm%20Seongjin!🙌&fontSize=50)
 
 </div>
 
@@ -44,6 +44,13 @@
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
 **Design Tool**
+<p>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/ProtoPie-000000?style=for-the-badge&logo=ProtoPie&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white">
+</p>
 
 
 ## Project
@@ -56,8 +63,8 @@
 
 <a href="s">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevHyun2&theme=tokyonight&show_icons=true" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHyun2&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="35%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Seongjin&theme=tokyonight&show_icons=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="35%" />
   </p>
 </a>
 <br>
