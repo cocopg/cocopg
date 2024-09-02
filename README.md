@@ -70,10 +70,14 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cocopg/cocopg/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+
+![](./profile-3d-contrib/profile-green.svg)
+
 </p>
 
 <div align="center">
-  ![footer](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=🙌Thank%20you!🙌&fontSize=50)
+  
+![footer](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=🙌Thank%20you!🙌&fontSize=50)
+
 </div>
 
