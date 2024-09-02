@@ -70,7 +70,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cocopg/cocopg/main/profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/cocopg/cocopg/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
 
 <div align="center">
