@@ -61,10 +61,10 @@
 
 ## GitStats
 
-<a href="s">
+<a href="https://github.com/cocopg">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seongjin&theme=tokyonight&show_icons=true" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="35%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cocopg&theme=tokyonight&show_icons=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocopg&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="35%" />
   </p>
 </a>
 <br>
