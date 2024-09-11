@@ -58,6 +58,8 @@
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |중고 트레이딩 카드 거래, 카드득| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/cardget/cardAuction)|
+|:---:|:---:|:---:|:---:|:---:|
+|중고 트레이딩 카드 거래, 똑똑| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Knock-and-knock)|
 
 ## GitStats
 
