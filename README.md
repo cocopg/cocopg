@@ -58,8 +58,8 @@
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |중고 트레이딩 카드 거래, 카드득| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09| [Repo](https://github.com/cardget/cardAuction)|
-|:---:|:---:|:---:|:---:|:---:|
-|중고 트레이딩 카드 거래, 똑똑| Back : Java, Spring<br> Front : HTMl, CSS, JS<br> DB: Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Knock-and-knock)|
+|금융취약계층을 위한 서비스, 똑똑| Back : Spring Boot, Spring Security<br> Front : HTMl, CSS, React, PWA | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11| [Repo](https://github.com/Knock-and-knock/backend)|
+|MIRIS 홈페이지 리뉴얼| Back : Spring<br> Front : HTMl, CSS, JS | ![Team](https://img.shields.io/badge/Team-red) | - | [Repo](http://www.miris.co.kr/)|
 
 ## GitStats
 
